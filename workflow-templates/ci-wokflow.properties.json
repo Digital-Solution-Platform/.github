@@ -1,0 +1,6 @@
+{
+    "name": "Vaillant Group CI Workflow",
+    "description": "Vaillant Group CI Starter workflow",
+    "iconName": "ci-icon",
+    "categories": ["Continuous integration", "JavaScript", "npm"]
+}

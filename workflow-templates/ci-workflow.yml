@@ -1,5 +1,5 @@
-# .github/workflow-templates/continuous-integration/ci-workflow.yml
-name: CI
+# .github/workflow-templates/ci-workflow.yml
+name: Vaillant Group CI
 on:
   push:
     branches:
